@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rainbow Gamejam", "Rainbow Gamejam.csproj", "{A7C905B9-B605-34C6-E063-701F37EB779D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7C905B9-B605-34C6-E063-701F37EB779D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C905B9-B605-34C6-E063-701F37EB779D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C905B9-B605-34C6-E063-701F37EB779D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C905B9-B605-34C6-E063-701F37EB779D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
