@@ -81,6 +81,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Compile Include="Assets\Game\Enums\GameEnums.cs" />
     <Compile Include="Assets\Game\Factories\FactoryManager.cs" />
     <Compile Include="Assets\Game\Factories\GameFactory.cs" />
     <Compile Include="Assets\Game\Factories\RandomGeneratorFactory.cs" />
