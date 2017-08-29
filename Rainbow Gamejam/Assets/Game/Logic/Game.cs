@@ -28,7 +28,6 @@ namespace Assets.Game.Logic {
     }
 
     public void Update() {
-      throw new NotImplementedException();
     }
   }
 }
